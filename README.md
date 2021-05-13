@@ -14,12 +14,6 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 # MORE DETAILS COMING
 
-## Deploy your own
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/jentanbernardus/nextail)
 
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url={{...}}&project-name={{...}}&repository-name={{...}})
-
-## How to use
-
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new) ([Documentation](https://nextjs.org/docs/deployment)).
+([Vercel Documentation](https://nextjs.org/docs/deployment)).
