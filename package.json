@@ -1,6 +1,9 @@
 {
-  "name": "with-tailwindcss",
-  "version": "0.1.0",
+  "name": "NexTail",
+  "description": "Next.js + Tailwind CSS starter kit.Optimized for blazing-fast performance.",
+  "author": "Jentan Bernardus",
+  "repository": " https://github.com/jentanbernardus/nextail",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "npm run clean && next dev",
