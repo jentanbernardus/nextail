@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.
 
 ---
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/0643edcafca6909a974b/maintainability)](https://codeclimate.com/github/jentanbernardus/nextail/maintainability)[![Codeship Status for jentanbernardus/nextail](https://app.codeship.com/projects/8e864635-e0f7-4879-9ae9-f9255bf2aaf5/status?branch=main)](https://app.codeship.com/projects/444469)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0643edcafca6909a974b/maintainability)](https://codeclimate.com/github/jentanbernardus/nextail/maintainability) [![Codeship Status for jentanbernardus/nextail](https://app.codeship.com/projects/8e864635-e0f7-4879-9ae9-f9255bf2aaf5/status?branch=main)](https://app.codeship.com/projects/444469)
 
 
 - [Next.js](https://nextjs.org/)
