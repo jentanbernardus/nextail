@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
         <div className="p-2 my-3 bg-indigo-300 text-indigo-800 rounded-md">
           <p className="text-sm">
-          Fully optimized Next.js + Tailwind CSS starter kit.
+          Next.js + Tailwind CSS starter kit.Optimized for blazing-fast performance.
           </p>
         </div>
 
