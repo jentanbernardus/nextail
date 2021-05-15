@@ -20,7 +20,7 @@ This is a [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.
 
 <!-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/jentanbernardus/nextail)  -->
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/jentanbernardus/nextail&project-name=nextail&repo-name=nextail&demo-title=NexTail&demo-description=Next.js+%2B+Tailwind+CSS+starter+kit.+Optimized+for+blazing-fast+performance.&demo-url=https://nextail.vercel.app&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&integration-ids=oac_MuWZiE4jtmQ2ejZQaQ7ncuDT) 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fjentanbernardus%2Fnextail&project-name=nextail&repo-name=nextail&demo-title=NexTail&demo-description=A%20Next.js%20%2B%20TailwindCSS%20starter%20kit%20optimized%20for%20blazing-fast%20performance.&demo-url=https%3A%2F%2Fnextail.vercel.app&demo-image=https%3A%2F%2Fnextail.vercel.app%2Fimg%2Fnextail.png)
 
 <!-- [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jentanbernardus/nextail) -->
 
