@@ -26,5 +26,9 @@ This is a [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.
 
 <!-- [Vercel Documentation](https://nextjs.org/docs/deployment) -->
 
+# To do
 
+- [ ] Update Tailwind to latest version
+- [ ] Web vitals  
+- [ ] PWA 
 
